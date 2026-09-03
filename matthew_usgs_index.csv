@@ -1,0 +1,6 @@
+### matthew-usgs locational index
+The first and the last two locations are for boundary conditions.
+Other index values correspond with matthew_usgs.csv row orders.
+###
+idx = [7,	134,	253,	308,	497,	101,	509,	600]
+
